@@ -1,8 +1,8 @@
-👋 Hi there!
+**👋 Hi there!**
 
 I'm Syafiqah Syahirah Ayub, an aspiring data analyst with a keen interest in data analytics and the oil and gas industry. Currently, I'm enhancing my skills through a 2-month IT bootcamp focused on Data Science Analysis.
 
-About Me
+**About Me**
 
 🌟 Driven to become a subject matter expert in data analytics.
 
@@ -12,12 +12,13 @@ About Me
 
 🎯 Committed to making meaningful contributions and achieving a sense of satisfaction through professional excellence.
 
-Skills
+**Skills**
 
-Python, R, SQL
-Data visualization (Tableau, Power BI)
-Statistical analysis, machine learning
-Data cleaning and preprocessing
-Let's Connect
+* Python, R, SQL
+* Data visualization (Tableau, Power BI)
+* Statistical analysis, machine learning
+* Data cleaning and preprocessing
+
+**Let's Connect**
 
 💼 LinkedIn :https://www.linkedin.com/in/syafiqah-syahirah-ayub/
